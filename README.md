@@ -3,7 +3,7 @@
 This is the source code of our paper "SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis" in the USENIX Security 2025. We propose a proactive framework named SafeSpeech utilizing the pivotal objective optimization and Speech PErturbative Concealment (SPEC) techniques to prevent publicly uploaded speeches from unauthorized and malicious speech synthesis.
 
 
-[Demo](https://wxzyd123.github.io/safespeech)
+\[[Demo Page](https://wxzyd123.github.io/safespeech)\]
 
 
 
