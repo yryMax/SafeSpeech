@@ -5,10 +5,12 @@ This is the source code of our paper "SafeSpeech: Robust and Universal Voice Pro
 
 \[[Demo Page](https://wxzyd123.github.io/safespeech)\]
 
+Paper is comming soon...
+
 
 
 ## Setup
-We tested our experiments on Ubuntu 20.04. And at least one GPU is needed.
+We tested our experiments on Ubuntu 20.04. At least one GPU is needed with CUDA version 12.x.
 
 The required dependencies can be installed by running the following:
 
