@@ -2,15 +2,15 @@
 
 This is the source code of our paper "SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis" in the USENIX Security 2025. We propose a proactive framework named SafeSpeech utilizing the pivotal objective optimization and Speech PErturbative Concealment (SPEC) techniques to prevent publicly uploaded speeches from unauthorized and malicious speech synthesis.
 
+Our paper is comming soon...
 
 \[[Demo Page](https://wxzyd123.github.io/safespeech)\]
 
-Paper is comming soon...
 
 
 
 ## Setup
-We tested our experiments on Ubuntu 20.04. At least one GPU is needed with CUDA version 12.x.
+We test our experiments on Ubuntu 20.04. At least one GPU is needed with CUDA version 12.x.
 
 The required dependencies can be installed by running the following:
 
