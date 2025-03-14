@@ -26,8 +26,8 @@
     "freeze_emo": false
   },
   "data": {
-    "training_files": "filelists/libritts_train_text.txt.cleaned",
-    "testing_files": "filelists/libritts_test_text.txt",
+    "training_files": "filelists/sample_one.txt.cleaned",
+    "testing_files": "filelists/sample_one.txt.cleaned",
     "max_wav_value": 32768.0,
     "sampling_rate": 24000,
     "filter_length": 2048,

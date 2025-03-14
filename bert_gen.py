@@ -40,10 +40,7 @@ def main():
     check_bert_models()
     lines = []
 
-    if mode == "clean":
-        txt = f"filelists/{dataset_name.lower()}_train_text.txt.cleaned"
-    else:
-        txt = f"filelists/{dataset_name.lower()}_train_asr.txt.cleaned"
+    txt = f"filelists/tmp.cleaned"
     with open(txt, encoding="utf-8") as f:
         lines.extend(f.readlines())
 

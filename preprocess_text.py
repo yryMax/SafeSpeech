@@ -24,7 +24,7 @@ def main():
     with open(txt_path, "r") as f:
         lines = f.readlines()
 
-    output_path = txt_path + ".cleaned"
+    output_path = "filelists/tmp.cleaned"
     with open(output_path, "w") as f:
         for line in tqdm(lines):
             utt, spk, text = line.strip().split("|")

@@ -1,0 +1,8 @@
+
+data/LibriTTS/5339/
+
+*.ckpt
+
+checkpoints/base_models/
+
+bert/deberta-v3-large/
